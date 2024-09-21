@@ -1,0 +1,11 @@
+h1 {
+    font-family: "Georgia", serif;
+    font-weight: 1;
+    font-size: 80px;
+    text-align: center;
+}
+
+ul {
+    font-family: "Verdana", sans-serif;
+    color: rgb(40, 176, 162);
+}
