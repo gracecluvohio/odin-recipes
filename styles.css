@@ -1,11 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    background: rgb(40, 176, 162);
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+.banner {
+    margin-top: 8px;
+    display: flex;
+    width: 100%;
+}
+
 h1 {
     font-family: "Georgia", serif;
     font-weight: 1;
     font-size: 80px;
     text-align: center;
+    margin: 0;
+}
+
+li {
+    margin: 32px auto;
+}
+
+li img {
+    display: block;
+    width: 200px;
 }
 
 ul {
     font-family: "Verdana", sans-serif;
-    color: rgb(40, 176, 162);
+    list-style-type: none;
+    display: flex;
 }
