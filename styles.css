@@ -18,6 +18,11 @@ body {
     width: 100%;
 }
 
+.banner img {
+    width: 0px;
+    flex: auto;
+}
+
 h1 {
     font-family: "Georgia", serif;
     font-weight: 1;
